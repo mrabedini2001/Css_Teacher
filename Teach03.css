@@ -1,0 +1,9 @@
+/* use center */
+.center {
+    text-align: center;
+    color: red;
+
+/* <body>
+    <h1 class="center">Red and center-aligned heading</h1>
+    <p class="center">Red and center-aligned paragraph.</p> 
+</body> */

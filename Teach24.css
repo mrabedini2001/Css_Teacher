@@ -1,0 +1,7 @@
+/* notes */
+p.ex1 {
+    direction: rtl;
+    unicode-bidi: bidi-override;
+  }
+
+  /* <p class="ex1">This is right-to-left text direction.</p> */

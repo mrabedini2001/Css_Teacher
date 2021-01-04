@@ -1,0 +1,8 @@
+/* outline offset */
+p {
+    margin: 30px;
+    background:yellow;
+    border: 1px solid black;
+    outline: 1px solid red;
+    outline-offset: 15px;
+  }

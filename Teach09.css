@@ -1,0 +1,13 @@
+/* use rgba */
+
+div.first {
+    background: rgba(0, 128, 0, 0.1);
+  }
+  
+  div.second {
+    background: rgba(0, 128, 0, 0.3);
+  }
+  
+  div.third {
+    background: rgba(0, 128, 0, 0.6);
+  }

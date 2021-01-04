@@ -1,0 +1,10 @@
+/* notes */
+
+p {
+    border: 5px solid red;
+  }
+
+p {
+    border-bottom: 6px solid red;
+    background-color: lightgrey;
+  }
